@@ -3,8 +3,8 @@ name: Docker
 on:
   push:
     branches: [ main ]
-  # pull_request:
-  #   branches: [ main ]
+  schedule:
+    - cron: '0 * * * *'
 
 env:
   REGISTRY: registry.cn-chengdu.aliyuncs.com
