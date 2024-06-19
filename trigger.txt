@@ -1,1 +1,2 @@
 lobehub/lobe-chat:latest registry.cn-chengdu.aliyuncs.com/main0/lobe-chat:latest
+node:20-slim:latest registry.cn-chengdu.aliyuncs.com/main0/node:20-slim:latest
